@@ -1,0 +1,10 @@
+transformers==4.47.0
+huggingface-hub==0.28.1
+qdrant-client==1.13.2
+langchain-community==0.3.16
+langchain-mistralai==0.2.4
+sentence-transformers==3.3.1
+pandas==2.2.3
+langchain==0.3.16
+numpy==1.26.4
+gradio==5.21.0
