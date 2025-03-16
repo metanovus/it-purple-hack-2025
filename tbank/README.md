@@ -12,9 +12,15 @@
 ## Использованные технологии ⚙️
 <p align="center">
   <a href="https://go-skill-icons.vercel.app/">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=linux,python,pycharm,qdrant,docker,gradio,huggingface,mistral&theme=dark"/>
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=linux,python,pycharm,qdrant,docker,gradio,huggingface,mistral,langchain&theme=dark"/>
   </a>
 </p>
+
+* **Qdrant** - хранение карточек товаров вместе с вектором.
+* **Gradio** - визуализация работы чат-бота.
+* **Hugging Face** - загрузка 🤗 [intfloat/multilingual-e5-base](https://huggingface.co/intfloat/multilingual-e5-base) для кодировки карточек товаров.
+* **Mistral AI** - общение с пользователем и использование контекста в рамках RAG-модели.
+* **LangChain** - управление памятью и контекстом LLM.
 
 ## Описание функционала 🚀
 
