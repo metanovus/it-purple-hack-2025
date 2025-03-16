@@ -1,8 +1,8 @@
 # House Maximum Assistant: Умный совет по интерьеру дома 🏠
 
 <p align="center">
-  <img src="https://i.ibb.co/w5FZKm1/2025-03-14-03-58-20.png" alt="Working demonstration"/>
-  <img src="https://i.ibb.co/67rXL0h6/2025-03-14-03-55-40.png" alt="Working demonstration"/>
+  <img src="https://github.com/user-attachments/assets/02e4161c-af49-40f6-97c2-600104e00a6b" alt="Working demonstration"/>
+  <img src="https://github.com/user-attachments/assets/ce36aa69-947e-4cbf-831b-62dee0f4287e" alt="Working demonstration"/>
 </p>
 
 * Демонстрация проекта (деплой в облаке): [ссылка на Hugging Face Spaces (Gradio)](https://huggingface.co/spaces/metanovus/maximum-house-assistant).
