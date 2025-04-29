@@ -3,6 +3,7 @@ huggingface-hub==0.28.1
 qdrant-client==1.13.2
 langchain-community==0.3.16
 langchain-mistralai==0.2.4
+langgraph==0.4.0
 sentence-transformers==3.3.1
 pandas==2.2.3
 langchain==0.3.16
