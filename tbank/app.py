@@ -10,12 +10,13 @@ from langchain.chains import ConversationChain
 from langchain.memory import ConversationSummaryMemory
 from langchain_mistralai.chat_models import ChatMistralAI
 from langgraph.graph import StateGraph, START, END
+import operator
 
 load_dotenv()
 
 
 class BotState(TypedDict):
-    messages: Annotated[List[Dict[str, Any]]]
+    messages: Annotated[List[Dict[str, Any]], operator.add]
     context: str
     relevant_goods: List[str]
     should_search: bool
